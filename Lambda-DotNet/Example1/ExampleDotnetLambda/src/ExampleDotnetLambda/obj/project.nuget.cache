@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UR4XBgDM0T/sktvbnd5MhneDa3NPHvYHWAT8IodygAlxQwnR+X+KMTOAk07G/KUO7UE9b7+hJa5FQLCZxuBDQ==",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\ubuntu-terraform\\home\\acslook\\Workspace\\dotnet-lambda-terraform-example\\ExampleDotnetLambda\\src\\ExampleDotnetLambda\\ExampleDotnetLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acslo\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\acslo\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.0\\amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "C:\\Users\\acslo\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.25\\microsoft.netcore.app.crossgen2.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
