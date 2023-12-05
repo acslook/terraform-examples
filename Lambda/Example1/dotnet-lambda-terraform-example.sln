@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExampleDotnetLambda", "ExampleDotnetLambda", "{823A9EA0-253B-4F75-99E4-E2758979DDD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3FA65835-0A27-4D5F-B334-D000CED07D03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleDotnetLambda", "ExampleDotnetLambda\src\ExampleDotnetLambda\ExampleDotnetLambda.csproj", "{07651CE7-AB11-450E-BEEA-7E3962727B2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0038BB4D-218D-4F8E-91DE-38C4D012FAF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleDotnetLambda.Tests", "ExampleDotnetLambda\test\ExampleDotnetLambda.Tests\ExampleDotnetLambda.Tests.csproj", "{DC814318-B183-4A5A-B464-405C8D810291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07651CE7-AB11-450E-BEEA-7E3962727B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07651CE7-AB11-450E-BEEA-7E3962727B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07651CE7-AB11-450E-BEEA-7E3962727B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07651CE7-AB11-450E-BEEA-7E3962727B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC814318-B183-4A5A-B464-405C8D810291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC814318-B183-4A5A-B464-405C8D810291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC814318-B183-4A5A-B464-405C8D810291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC814318-B183-4A5A-B464-405C8D810291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3FA65835-0A27-4D5F-B334-D000CED07D03} = {823A9EA0-253B-4F75-99E4-E2758979DDD5}
+		{07651CE7-AB11-450E-BEEA-7E3962727B2F} = {3FA65835-0A27-4D5F-B334-D000CED07D03}
+		{0038BB4D-218D-4F8E-91DE-38C4D012FAF6} = {823A9EA0-253B-4F75-99E4-E2758979DDD5}
+		{DC814318-B183-4A5A-B464-405C8D810291} = {0038BB4D-218D-4F8E-91DE-38C4D012FAF6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38DB89A1-04D7-4ABF-81C8-D7BD079ED8E2}
+	EndGlobalSection
+EndGlobal
