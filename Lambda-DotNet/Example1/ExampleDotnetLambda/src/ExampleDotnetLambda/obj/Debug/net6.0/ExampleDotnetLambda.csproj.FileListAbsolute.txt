@@ -1,0 +1,17 @@
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\bin\Debug\net6.0\ExampleDotnetLambda.deps.json
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\bin\Debug\net6.0\ExampleDotnetLambda.runtimeconfig.json
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\bin\Debug\net6.0\ExampleDotnetLambda.dll
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\bin\Debug\net6.0\ExampleDotnetLambda.pdb
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.csproj.AssemblyReference.cache
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.AssemblyInfoInputs.cache
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.AssemblyInfo.cs
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.csproj.CopyComplete
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.dll
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\refint\ExampleDotnetLambda.dll
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.pdb
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ExampleDotnetLambda.genruntimeconfig.cache
+D:\workspace\dotnet-lambda-terraform-example\ExampleDotnetLambda\src\ExampleDotnetLambda\obj\Debug\net6.0\ref\ExampleDotnetLambda.dll
